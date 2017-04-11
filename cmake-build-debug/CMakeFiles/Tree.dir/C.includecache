@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Vlad/CLionProjects/Tree/main.c
+stdio.h
+-
+stdlib.h
+-
+treefun.h
+C:/Users/Vlad/CLionProjects/Tree/treefun.h
+
+C:/Users/Vlad/CLionProjects/Tree/treefun.h
+stdio.h
+-
+stdlib.h
+-
+
